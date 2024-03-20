@@ -1,6 +1,0 @@
-C:/Users/alexandre/Downloads/OpenXLSX-0.3.2(1)/OpenXLSX-0.3.2/build/CMakeFiles/INSTALL.dir
-C:/Users/alexandre/Downloads/OpenXLSX-0.3.2(1)/OpenXLSX-0.3.2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/alexandre/Downloads/OpenXLSX-0.3.2(1)/OpenXLSX-0.3.2/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/alexandre/Downloads/OpenXLSX-0.3.2(1)/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/OpenXLSX.dir
-C:/Users/alexandre/Downloads/OpenXLSX-0.3.2(1)/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/INSTALL.dir
-C:/Users/alexandre/Downloads/OpenXLSX-0.3.2(1)/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/ALL_BUILD.dir
