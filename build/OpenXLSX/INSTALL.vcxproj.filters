@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alexandre\Downloads\OpenXLSX-0.3.2(1)\OpenXLSX-0.3.2\build\CMakeFiles\0366cacce558ce36af690c0e207be614\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88D69A3D-7AA1-37B7-97F8-12364FE0BA61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
